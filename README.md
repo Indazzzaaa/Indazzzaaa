@@ -2,7 +2,7 @@
 
 I'm currently exploring realm of designing scalable systems.
 
-![Description](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NzNzUxOHNieWFjdGNwMG9rODJjdWo5ZTltZGV3NTRrdXgxN3ZjNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif)
+
 
 # 💻 Tech Stack:
 
